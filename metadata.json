@@ -1,0 +1,6 @@
+{
+  "name": "Vayu Pulse",
+  "description": "Know your air. Change your day. GenAI-powered hyperlocal air quality PWA, daily low-emission routine planner, indoor air guide, and build-ready PRD.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
